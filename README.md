@@ -1,1 +1,1 @@
-# order-summary-component-card
+# order-summary-component
